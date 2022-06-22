@@ -11,30 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics, Ecole Normale Superieure de Lyon (FR), 2019
+* Agregation in Physics (most competitive exam for teachers recruitment in France)
+* M.S. in Physics, Ecole Normale Superieur de Lyon (FR), 2022
+* Ph.D in Statistical Physics, Universite Grenoble Alpes (FR), 2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Feb-Jul 2022: Research internship
+  * Laboratoire de Physique Théorique (Toulouse, France)
+  * Renormalization of the elastic parameters of a bicomponent membrane
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May-Jul 2020: Research internship
+  * Centre de Physique Théorique (Marseille, France)
+  * Active field theories: connecting Langevin and Fokker-Planck descriptions
+
+* Jun-Jul 2019: Research internship
+  * Laboratoire de Physique de l'ENS de Lyon (Lyon, France)
+  * DNA translocation through nanopores
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Languages
+  * French (native)
+  * English (C1)
+  * Russian (B1)
 
 Publications
 ======
