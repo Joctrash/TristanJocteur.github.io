@@ -1,7 +1,7 @@
 ---
 title: "Propagation des ondes électromagnétiques"
 collection: teaching
-type: "Deuxième année de cycle préparatoire"
+type: "Cours, travaux dirigés et travaux pratiques"
 permalink: /teaching/2014-spring-teaching-1
 venue: "La Prépa des INP"
 date: 2022-2023
