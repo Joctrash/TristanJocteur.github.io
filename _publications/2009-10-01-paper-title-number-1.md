@@ -1,5 +1,5 @@
 ---
-title: "J'ai rien publié pck je suis nul à chier"
+title: "Juste pour avoir un exemple de template"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
