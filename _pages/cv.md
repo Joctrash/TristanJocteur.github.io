@@ -32,7 +32,8 @@ Work experience
   
 Skills
 ======
-* Python
+* Python, C++
+* Parallel computing (CUDA)
 * Languages
   * French (native)
   * English (C1)
