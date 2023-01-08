@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Je suis complètement [Zinzin](https://www.youtube.com/channel/UC1N9FiELZZVt8WbRT3B4FAw)
+I am a french PhD student in physics in Grenoble currently working on abosrbing phase transitions.
