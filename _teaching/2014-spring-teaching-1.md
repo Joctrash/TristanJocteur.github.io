@@ -4,7 +4,7 @@ collection: teaching
 type: "Cours, travaux dirigés et travaux pratiques"
 permalink: /teaching/2014-spring-teaching-1
 venue: "La Prépa des INP"
-date: 2022-2023
+date: 2022
 location: "Grenoble, France"
 ---
 
