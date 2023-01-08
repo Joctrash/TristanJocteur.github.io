@@ -11,33 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in Physics, Ecole Normale Superieure de Lyon (FR), 2019
-* Agregation in Physics (most competitive exam for teachers recruitment in France)
-* M.S. in Physics, Ecole Normale Superieur de Lyon (FR), 2022
-* Ph.D in Statistical Physics, Universite Grenoble Alpes (FR), 2025 (expected)
+* Licence Sciences de la Matière, Majeure Physique, Ecole Normale Superieure de Lyon (FR), 2019
+* Agrégation de Physique-Chimie option Physique (classé 3ème)
+* Master Physique, concepts et applications, Ecole Normale Superieur de Lyon (FR), 2022
+* Thèse de doctorat en physique statistique, Universite Grenoble Alpes (FR), 2025 (supposé)
 
 Work experience
 ======
-* Feb-Jul 2022: Research internship
+* 02-07 2022: Stage de recherche
   * Laboratoire de Physique Théorique (Toulouse, France)
-  * Renormalization of the elastic parameters of a bicomponent membrane
+  * Renormalisation des paramètres élastiques d'une membrane à deux composants
 
-* May-Jul 2020: Research internship
+* 05-07 2020: Stage de recherche
   * Centre de Physique Théorique (Marseille, France)
-  * Active field theories: connecting Langevin and Fokker-Planck descriptions
+  * Théorie des champs actifs : relier les descriptions de Langevin et Fokker-Planck
 
-* Jun-Jul 2019: Research internship
+* 06-07 2019: Stage de recherche
   * Laboratoire de Physique de l'ENS de Lyon (Lyon, France)
-  * DNA translocation through nanopores
+  * Translocation d'ADN simple brin à travers des nanopores
   
 Skills
 ======
 * Python, C++
 * Parallel computing (CUDA)
-* Languages
-  * French (native)
-  * English (C1)
-  * Russian (B1)
+* Langues
+  * Français (langue maternelle)
+  * Anglais (C1)
+  * Russe (B1)
 
 Publications
 ======
@@ -56,7 +56,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
