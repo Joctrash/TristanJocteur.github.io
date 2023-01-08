@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Propagation des ondes électromagnétiques"
 collection: teaching
-type: "Undergraduate course"
+type: "Deuxième année de cycle préparatoire"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "La Prépa des INP"
+date: 2022-2023
+location: "Grenoble, France"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
