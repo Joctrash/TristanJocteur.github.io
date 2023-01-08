@@ -4,7 +4,7 @@ collection: teaching
 type: "Travaux pratiques"
 permalink: /teaching/2015-spring-teaching-1
 venue: "La Prépa des INP"
-date: 2022
+date: 2022-12-01
 location: "Grenoble, France"
 ---
 
